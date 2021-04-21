@@ -9,3 +9,5 @@ Jest ·
 
 Linkedin: https://www.linkedin.com/in/gustavo-thirion/
 E-mail: gustavo.fthirion@gmail.com
+
+Participando da jornada Rockseat #NLW5, com imersão nos estudos em React Native, entre os dias 19 e 25 de abril de 2021...
