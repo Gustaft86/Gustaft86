@@ -6,9 +6,9 @@ HTML· CSS ·
 Javascript (ES6) ·
 React · Redux · Context API · Hooks · React Teesting Library ·
 Jest ·
-NodeJS ·
+NodeJS · Express · REST · SOLID · Socket.IO
 MongoDB ·
-MySQL · Sequelize
+MySQL · ORM Sequelize
 
 Linkedin: https://www.linkedin.com/in/gustavo-thirion/
 E-mail: gustavo.fthirion@gmail.com
