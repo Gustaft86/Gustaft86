@@ -6,7 +6,7 @@ HTML· CSS ·
 Javascript (ES6) ·
 React · Redux · Context API · Hooks · React Teesting Library ·
 Jest ·
-NodeJS · Express · REST · SOLID · Socket.IO
+NodeJS · Express · REST · SOLID · Socket.IO ·
 MongoDB ·
 MySQL · ORM Sequelize
 
