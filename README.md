@@ -11,9 +11,11 @@ React · Redux · Context API · Hooks · React Teesting Library ·
 Jest ·
 NodeJS · Express · REST · SOLID · Socket.IO ·
 MongoDB ·
-MySQL · ORM Sequelize
+MySQL · ORM Sequelize ·
+Python
 
-Linkedin: https://www.linkedin.com/in/gustavo-thirion/
+
+Linkedin: https://www.linkedin.com/in/gus-thirion-desenvolvedor-app/
 E-mail: gustavo.fthirion@gmail.com
 
 Realizei a jornada Rockseat #NLW5, com imersão nos estudos em React Native, entre os dias 19 e 25 de abril de 2021...
