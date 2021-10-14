@@ -3,7 +3,7 @@
 Estudante desenvolvedor Full-Stack.
 --------------
 
-Faço parte de um grupo de pessoas estudantes focadas no conhecimento de desenvolvimento de softwares e inserção no mercado de trabalho. Denominado **Trybe**, esse programa de estudo nos proporcionam ambientes diários para uma total imersão no aprendizado de programação. Atualmente estou na oitava turma de pessoas estudantes, concluindo o **9º mês**, e na minha bagagem já carrego sólidos conhecimentos em:
+Faço parte de um grupo de pessoas estudantes focadas no conhecimento de desenvolvimento de softwares e inserção no mercado de trabalho. Denominado **Trybe**, esse programa de estudo nos proporcionam ambientes diários para uma total imersão no aprendizado de programação. Conclui essa trajetória na oitava turma de pessoas estudantes, e na minha bagagem já carrego sólidos conhecimentos em:
 
 HTML· CSS ·
 Javascript (ES6) ·
