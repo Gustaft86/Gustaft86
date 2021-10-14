@@ -12,8 +12,8 @@ Jest ·
 NodeJS · Express · REST · SOLID · Socket.IO ·
 MongoDB ·
 MySQL · ORM Sequelize ·
-Python
-Android · Kotlin
+Python · 
+Android · Kotlin · 
 React Native
 
 Linkedin: https://www.linkedin.com/in/gus-thirion-desenvolvedor-app/
