@@ -13,7 +13,8 @@ NodeJS · Express · REST · SOLID · Socket.IO ·
 MongoDB ·
 MySQL · ORM Sequelize ·
 Python
-
+Android · Kotlin
+React Native
 
 Linkedin: https://www.linkedin.com/in/gus-thirion-desenvolvedor-app/
 E-mail: gustavo.fthirion@gmail.com
